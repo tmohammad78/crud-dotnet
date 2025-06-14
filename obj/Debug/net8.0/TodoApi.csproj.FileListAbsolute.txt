@@ -37,3 +37,9 @@
 /Users/mohammadtaheri/projects/newAppNet/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/mohammadtaheri/projects/newAppNet/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/mohammadtaheri/projects/newAppNet/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/obj/Debug/net8.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mohammadtaheri/projects/newAppNet/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
